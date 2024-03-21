@@ -1,22 +1,26 @@
-"C:\Users\thinh\Downloads\_9_ir_capture-20240317T160300Z-001\_9_ir_capture\project\source\cortex_m3.c"
+"E:\STM32_LEDANDBUTTONSTL\source\cortex_m3.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\Users\thinh\Downloads\_9_ir_capture-20240317T160300Z-001\_9_ir_capture\project\Debug\Obj\cortex_m3.pbi.dep
+E:\STM32_LEDANDBUTTONSTL\Debug\Obj\cortex_m3.pbi.dep
 -o
 cortex_m3.pbi
 -I
-C:\Users\thinh\Downloads\_9_ir_capture-20240317T160300Z-001\_9_ir_capture\project\source
+E:\STM32_LEDANDBUTTONSTL\source
 -I
-C:\Users\thinh\Downloads\_9_ir_capture-20240317T160300Z-001\_9_ir_capture\project\include
+E:\STM32_LEDANDBUTTONSTL\include
+-I
+E:\STM32_LEDANDBUTTONSTL\source
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c
 -I
-C:\Users\thinh\Downloads\_9_ir_capture-20240317T160300Z-001\_9_ir_capture\project\include
+E:\STM32_LEDANDBUTTONSTL\include
+-I
+E:\STM32_LEDANDBUTTONSTL\source
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
